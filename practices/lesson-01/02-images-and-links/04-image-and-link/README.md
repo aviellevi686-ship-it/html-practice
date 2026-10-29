@@ -10,7 +10,7 @@ An image and an external link on the same page.
 ## 🎯 Task
 Add both of these:
 
-- an image of `images/photo.jpg` with alt text `My Photo`
+- an image of `` with alt text `My Photo`
 - a link to `https://example.com` that opens in a new tab and reads `Visit Site`
 
 ## ✅ Requirements
